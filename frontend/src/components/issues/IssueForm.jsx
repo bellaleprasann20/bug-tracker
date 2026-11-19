@@ -271,7 +271,7 @@ export default function IssueForm({
                 aria-label={`Remove ${label}`}
                 className="font-bold hover:text-red-500"
               >
-                ×
+                ?
               </button>
             </span>
           ))}
